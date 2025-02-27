@@ -6,6 +6,7 @@ build/
 !**/src/test/**/build/
 .env/
 .env.properties
+application.properties
 
 
 ### STS ###
